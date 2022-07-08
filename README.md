@@ -10,14 +10,7 @@ icon</a> <br><br>
 
 <img src="https://github.com/Devlonoah/bee_todo/blob/master/bee_todo.gif" width="220" height="400"/>
 
-<a href="https://stackoverflow.com/"><img src="https://github.com/Devlonoah/bee_todo/blob/master/apk_download_button.png"/></img></a>
-
-
-
-
-
-To download this app, <a href="https://github.com/Devlonoah/files-apk-/blob/main/bee_todo.apk">
-click here</a> . Download and install the `apk` .
+<a href="https://github.com/Devlonoah/files-apk-/blob/main/bee_todo.apk"><img src="https://github.com/Devlonoah/bee_todo/blob/master/apk_download_button.png" width="220" height="65"/></img></a>
 
 <br> Please star⭐ the repo if you like what you see😉.
 
