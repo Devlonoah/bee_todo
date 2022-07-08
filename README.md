@@ -8,7 +8,7 @@ A simple Flutter app to create task,todo.
 icon</a> <br><br>
 
 
-<img src="https://github.com/Devlonoah/bee_todo/blob/master/bee_todo.gif" width="250" height="400"/>
+<img src="https://github.com/Devlonoah/bee_todo/blob/master/bee_todo.gif" width="220" height="400"/>
 
 
 
