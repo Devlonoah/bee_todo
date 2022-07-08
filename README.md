@@ -1,4 +1,4 @@
-# 📖📖 Flutter Todo App 
+# Flutter Todo App 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/devlonoah.svg?style=social)](https://twitter.com/devlonoah)
 
